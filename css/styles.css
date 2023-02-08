@@ -1,0 +1,78 @@
+ thead,
+tfoot{
+   background-color: #333;
+   color: #fff;
+}
+
+
+
+
+img{
+  border-radius: 50%;
+} 
+
+body{
+  background-color:#eeddb6;
+  font-family: 'Noto Sans Thai', sans-serif;
+  margin: 0;
+    text-align: center;
+
+}
+
+hr{
+border-color: rgb(219, 138, 17);
+border-width: 3px;
+border-style: solid none none;
+width: 50%; margin: 0 25% 0 25%;
+}
+
+h3{
+  color:#2B3467;
+}
+
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 10px;
+  font-size: 60px;
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+h3{
+  font-size: 30px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.tenter {
+  margin-left: auto;
+  margin-right: auto;
+}
+.a1{
+  font-size: 50px;
+  background-color: rgb(10, 111, 111);
+  color: #fff;
+  border-radius: 20%;
+  
+}
+.a1:hover{
+  background-color: white;
+}
+.div{
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.div-btn{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
