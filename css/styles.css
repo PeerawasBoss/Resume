@@ -12,7 +12,7 @@ img{
 } 
 
 body{
-  background-color:#eeddb6;
+  background-color:#efd495;
   font-family: 'Noto Sans Thai', sans-serif;
   margin: 0;
     text-align: center;
@@ -20,14 +20,15 @@ body{
 }
 
 hr{
-border-color: rgb(219, 138, 17);
+border-color: rgb(0, 0, 0);
 border-width: 3px;
 border-style: solid none none;
 width: 50%; margin: 0 25% 0 25%;
 }
 
 h3{
-  color:#2B3467;
+  color:#1b1848;
+  
 }
 
 
@@ -51,7 +52,7 @@ h3{
 }
 
 p{
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .tenter {
@@ -59,8 +60,8 @@ p{
   margin-right: auto;
 }
 .a1{
-  font-size: 50px;
-  background-color: rgb(10, 111, 111);
+  font-size: 30px;
+  background-color: rgb(151, 91, 0);
   color: #fff;
   border-radius: 20%;
   
